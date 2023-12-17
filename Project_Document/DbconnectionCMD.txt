@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=Your_Server_Name(in MSSql); Database=Your_DB_Name; Trusted_Connection=True; MultipleActiveResultSets=True;TrustServerCertificate=True;encrypt=false" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
